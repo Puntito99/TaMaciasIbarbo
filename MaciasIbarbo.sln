@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaciasIbarbo", "MaciasIbarbo.csproj", "{4DC41965-769B-4E0F-A11E-3441EFA2720D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "models", "models", "{34B0FDA3-1AD9-49CC-B190-1EAF39AD6931}"
+	ProjectSection(SolutionItems) = preProject
+		Genero.cs = Genero.cs
+		Usuario.cs = Usuario.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D7E27289-A3E6-490B-BD4E-5468014C91C4}"
+	ProjectSection(SolutionItems) = preProject
+		AplicationDBContext.cs = AplicationDBContext.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC41965-769B-4E0F-A11E-3441EFA2720D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC41965-769B-4E0F-A11E-3441EFA2720D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC41965-769B-4E0F-A11E-3441EFA2720D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC41965-769B-4E0F-A11E-3441EFA2720D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BA1CC4-5F1F-46EB-91BE-D80A5DC20ED7}
+	EndGlobalSection
+EndGlobal
